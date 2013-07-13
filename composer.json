@@ -1,0 +1,18 @@
+{
+	"name": "pem-fr/dojo",
+	"description": "This is a vanilla dojo release made compatible with composer. It is the sdk version (so you get the full thing)",
+	"authors": [
+		{
+			"name": "Pierre-Emmanuel Manteau",
+			"email": "pe.manteau@gmail.com",
+			"role": "Provider"
+		}
+	],
+	"keywords": ["dojo", "javascript", "dojotoolkit"],
+	"homepage": "https://github.com/PEM-FR/dojo",
+	"license": "MIT",
+	"support": {
+		"issues": "https://github.com/PEM-FR/dojo/issues"
+	},
+	"bin": ["bin/dojo"]
+}
